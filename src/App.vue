@@ -17,6 +17,11 @@ export default {
     Actions,
     Getters,
     Modules
+  },
+  methods: {
+    info () {
+      console.log(321)
+    }
   }
 }
 </script>
